@@ -31,7 +31,7 @@ Fetch and unzip the pretrained model based on which to continue finetune your ow
 ```zsh
 wget https://bapengstorage.blob.core.windows.net/soloist/gtg_pretrained.tar.gz
 cd soloist
-tar -xvf gtg_pretrained_model.tar.gz
+tar -xvf gtg_pretrained.tar.gz
 ```
 ## Pipeline
 **Data format**
